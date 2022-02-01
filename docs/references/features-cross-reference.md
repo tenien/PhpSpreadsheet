@@ -5,6 +5,7 @@
 - <span style="text-align: center; color: red;">✖</span> Not supported
 - N/A Cannot be supported
 
+<div style="overflow-y: auto;">
 <table class="features-cross-reference">
     <tr>
         <th></th>
@@ -1603,6 +1604,7 @@
         <th colspan="2">Methods</th>
     </tr>
 </table>
+</div>
 
 1. Only text contents
 2. Only BIFF8 files support Rich Text. Prior to that, comments could only be plain text
